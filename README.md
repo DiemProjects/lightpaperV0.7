@@ -1,2 +1,2 @@
 # lightpaper
-This is the Github Repo for the lhcnftsonwax Lightpaper
+This is the Human readable Version Oflhcnftsonwax Lightpaper Github Repo for the lhcnftsonwax Lightpaper
